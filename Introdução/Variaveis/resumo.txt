@@ -1,0 +1,33 @@
+
+Variaveis são estruturas que armazenam valores 
+
+    let - São variaveis que é possivel trocar os valores atribuidos
+    const - São variaveis que usamos com valores fixos pois nao permite reatribuição
+
+    Desclaração de variaveis:
+
+            [Tipo] [Nome] = [Valor] 
+            
+            const name_user = "Alexandre"
+
+
+
+console.log("") - Esta tag nos usamos para mostrar o conteudo na saida do terminal 
+
+Tipos de Variaveis
+
+    String - são as variaveis que armazenam textos
+    number - São as variaveis que armazenam numeros
+    boolean - São as variaveis que possuem valores True - false
+
+    Tipos de outras linguagens
+
+    int - Apenas numeros inteiros
+    float - Numeros com casas decimais
+    caractere - Esta variavel armazena apenas um caracter de texto
+    date e hora - Salva apenas data e hora
+
+Atenção - normamente em numeros que não faremos calculos nos deixamos ele como tipo string
+
+Js - São fracamente tipadas ou seja não obrigam a definir o tipo da variavel quando está declarando
+

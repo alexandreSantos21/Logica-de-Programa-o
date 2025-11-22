@@ -1,0 +1,46 @@
+
+
+Operadores Aritimeticos
+
+  +   |  Soma 
+  -   |  Subtração
+  /   |  Divisão
+  *   |  Multiplicação
+  %   |  Resto
+
+
+Operadores de incremento e Decremento
+
+    ++  - incremento
+    --  - Descremento
+
+
+Operadores de Atribuição - Quando queremos atribuir um valor para a variavel ou seja é uma abreviação:
+
+                valor = valor + 10 == valor +=10
+
+        
+
+  += | Atribuição de soma
+  -= | Atribuição de Subtração
+  *= | Atribuição de Multiplicação
+  /= | Atribuição de Divisão
+  %= | Atribuição de Modulo
+
+
+Operadores de comparação - usamos para verificar a comparação entre valores ou variaveis
+
+  ==    |  comparação de igualdade verifica apenas se o valor é igual
+  ===   |  comparação de igualdade verifica se o valor e o tipo é igual
+  !==   |  diferente verifica se os valores são diferente
+  >     |  Menor 
+  >=    |  Menor ou igual
+  <     |  Menor 
+  <=    | Menor ou igual 
+
+
+Operadores Logicos 
+
+and (&&) - Precisa que todas as verificações em questao seja verdadeira
+or  (||)   - Precisa que apenas uma das verificaçoes seja True para validar
+not (! )  - Ele nega um resultado e ultizamos para inverter o resultado 

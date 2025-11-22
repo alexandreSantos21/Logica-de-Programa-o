@@ -1,0 +1,22 @@
+
+Switch case - é uma estrutura que permite adicionar diferentes possibilidade dependendo dos valores que foi recebido
+
+    Para definir a estrutura usamos a palavra Switch e a variavel a ser testado
+
+        Switch (variavel):
+
+            case (valor):
+                codigo / Execução
+
+
+
+break - Devemos colocar esta palavra para o fluxo se não quando der true em algum valor vai continuar executando o codigo abaixo
+
+defaut - esta palavra faz parte da estrutura e vai executar o codigo quando nenhum caso ser atendido
+
+Atenção - Para testarmos mais de um valor no mesmo caso colocamos um caso dentro do outro 
+
+
+        case (banana):
+            case (maçã)
+                console.log("Vitamina)

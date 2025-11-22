@@ -1,0 +1,20 @@
+
+
+if - Esta condicional permite exercutarmos codigo dentro do propio escopo quando o resultado foi igual a True 
+
+        if ( comparação) {
+            codigo
+        }
+
+else - Esta condicional só vai ser executado quando o resultado do (if) ser igual a false
+
+else if - esta condicional vai verificar quando o primeiro if for false e se for true vai executar o codigo interno 
+
+    if (comparação) {
+        codigo
+    }else if (comparação) {
+        codigo
+    }
+    else {
+        codigo
+    }

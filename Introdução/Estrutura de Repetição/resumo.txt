@@ -1,0 +1,30 @@
+
+
+Estrutura de repetição - Repetem o codigo automaticamente uma quantidade de veses limite como no for ou quando a variavel ser atendida como no while 
+
+    for - O for sera executado uma quantidade veses limitada
+
+    for (variavel = 0; condição ; incremento) { 
+        codigo
+    }
+
+
+while - Será executado até a condição ser atendidade 
+
+    variavel 
+
+    while (condição) {
+        incremento
+    }
+
+do - while - executa o codigo antes de testar ou seja mesmo que a condição nao seja atendida vai ser executada a primeira vez
+
+
+    variavel 
+    
+    do {
+        incremento
+        codigo
+    } while (condição) {
+
+    }

@@ -1,0 +1,18 @@
+
+
+vetor é uma estrutura que permite armazenar coleção de dados em apenas um estrutura
+
+    Desclaração:
+
+        [const ou let] [nome ] = ["valor","valor2"]
+        const pokemon = ["Alexandre","Santos"]
+
+    Para acessar apenas um valor na estrutura nos usamos [posição] iniciando no zero
+
+        console.log(pokemon[0])
+
+Matriz é uma coleção de coleções de arrayz com multiplas dimenções
+
+
+metodos ou Funções - São ações que nossos vetores podem fazer
+Propiedades - Define o estado do nosso vetor 
