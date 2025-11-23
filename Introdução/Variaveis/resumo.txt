@@ -3,7 +3,8 @@ Variaveis são estruturas que armazenam valores
 
     let - São variaveis que é possivel trocar os valores atribuidos
     const - São variaveis que usamos com valores fixos pois nao permite reatribuição
-
+    var -É uma variavel porem ela é global e nao apenas dentro do propio escopo igual as outras
+    
     Desclaração de variaveis:
 
             [Tipo] [Nome] = [Valor] 

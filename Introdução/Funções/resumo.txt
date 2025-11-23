@@ -1,0 +1,24 @@
+
+
+Funções - Permite nos separar o nosso codigo em blocos que irão executar ações 
+
+    function nome() {
+        codigo
+    }
+    nome()  | Chamando a função
+
+
+main() - Fazemos uma função main para chamar as outras funções 
+
+
+Funções com Paramentros - permite adicionar as funções valores de entrada e ultilizarmos no codigo interno da função
+
+
+    funcion nome(varialvel) {
+        console.log(varialvel)
+    }
+
+
+
+funções com retorno permite nos armazenas os valores retornados por uma função e para isso usamos a palavra - return
+
